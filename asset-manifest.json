@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/ultimatemathlibrary.com/static/js/main.605d9f29.js",
-    "index.html": "/ultimatemathlibrary.com/index.html",
-    "main.605d9f29.js.map": "/ultimatemathlibrary.com/static/js/main.605d9f29.js.map"
+    "main.js": "/static/js/main.605d9f29.js",
+    "index.html": "/index.html",
+    "main.605d9f29.js.map": "/static/js/main.605d9f29.js.map"
   },
   "entrypoints": [
     "static/js/main.605d9f29.js"
