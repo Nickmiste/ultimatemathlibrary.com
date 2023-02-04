@@ -1,3 +1,3 @@
 export default function App() {
-   return <div/>;
+   return <h1>Ultimate Math Library</h1>;
 }
