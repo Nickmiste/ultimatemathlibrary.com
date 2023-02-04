@@ -5,7 +5,7 @@
     "name": "Nickmiste",
     "email": "nickmiste@ultimatemathlibrary.com"
   },
-  "homepage": "https://nickmiste.github.io/ultimatemathlibrary.com",
+  "homepage": "https://www.ultimatemathlibrary.com",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
